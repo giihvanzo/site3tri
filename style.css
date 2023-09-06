@@ -12,7 +12,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: #407bda;
+    background-color: #c277e7;
     border-radius: 0px 0px 0px 400px;
     }
     
@@ -32,7 +32,7 @@
     
     .cabecalho__menu-item{
         font-size: 32px;
-        color:#88afda
+        color:#c986e3
         -webkit-text-stroke-width: 1px;
         -webkit-text-stroke-color: black;
         display: inline;
@@ -42,7 +42,7 @@
     .escola{
         margin: 20px;
         padding: 20px;
-        background-color:#878fb3;
+        background-color:#e2b2e0;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -66,7 +66,7 @@
         display: grid;
         grid-template-columns:1fr 1fr 1fr ;
         grid-template-rows: auto auto auto auto;
-        background-color: #8881b3;
+        background-color: #d09ac5;
         border-radius: 40px;
         margin: 20px;
         justify-items: center;
