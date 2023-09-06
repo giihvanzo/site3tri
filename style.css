@@ -5,9 +5,7 @@
     
     body{
         font-family: 'Sono', sans-serif;
-    }
-    
-    
+    } 
     .cabecalho {
     display: flex;
     justify-content: space-around;
